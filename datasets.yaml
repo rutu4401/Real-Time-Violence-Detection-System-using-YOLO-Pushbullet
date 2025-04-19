@@ -1,0 +1,5 @@
+train: D:/Machine Learning/Voilencetete/frames/images/train
+val: D:/Machine Learning/Voilencetete/frames/images/val
+
+nc: 2  # Number of classes (violence and non-violence)
+names: ['non_violence', 'violence']
